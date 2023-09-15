@@ -1,7 +1,7 @@
 const testComponent = () => {
   return (
     <div>
-      <p className="text-white">Work in progress...</p>
+      <p className="text-black">Work in progress...</p>
     </div>
   );
 };
